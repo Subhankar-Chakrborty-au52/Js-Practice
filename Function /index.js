@@ -50,10 +50,34 @@
 // fun("Varun");
 // fun();
 
-function fun(username, age, profession) {
-  console.log(typeof username);
-  console.log(typeof age);
-  console.log(`Hey ${username} is ${age} and he is a  ${profession}`);
-}
+// function fun(username, age, profession) {
+//   console.log(typeof username);
+//   console.log(typeof age);
+//   console.log(`Hey ${username} is ${age} and he is a  ${profession}`);
+// }
 
-fun("Raja", 29, "Developer");
+// fun("Raja", 29, "Developer");
+
+//function with return keyword
+
+// function addTwoNumber() {
+//   return 7 + 9;
+// }
+
+// const newNum = addTwoNumber();
+// console.log(newNum);
+
+//with parameter and arguments
+
+// function addTwoNumber(a, b) {
+//   return a + b;
+// }
+// debugger;
+// const newNum = addTwoNumber(3, 5);
+// console.log(newNum);
+
+// const addTwoNumber = function (a, b) {
+//   return a + b;
+// };
+// const newNum = addTwoNumber(5, 7);
+// console.log(newNum);
