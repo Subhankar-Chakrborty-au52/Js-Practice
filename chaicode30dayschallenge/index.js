@@ -56,10 +56,12 @@
 // for (let i = 0; i <= 10; i++) {
 //   console.log(i);
 // }
-const arr = [];
+// const arr = [];
 
-for (let i = 1; i <= 100; i++) {
-  arr.push(5 * i);
-}
+// for (let i = 1; i <= 100; i++) {
+//   arr.push(5 * i);
+// }
 
-console.log(arr);
+// console.log(arr);
+
+//  while loop
